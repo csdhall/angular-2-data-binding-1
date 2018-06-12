@@ -1,6 +1,6 @@
 # DataBinding Part 1
 
-## Preqruisites
+## Prerequisites
 1. **[Angular CLI Installed](https://github.com/angular/angular-cli#installation)**
 
 ## Setup and Run	
